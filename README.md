@@ -1,5 +1,5 @@
 
- <h1>Hi there! My name is Artem 👋</h1>
+ <h1>Hi there! I'm Artem 👋</h1>
  <h3>I'm a QA engineer</h3>
 
 
